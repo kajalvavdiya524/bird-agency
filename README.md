@@ -96,10 +96,3 @@ vercel
 ```
 
 Follow the prompts to complete the deployment process.
-
-## Contact Information
-
-For any inquiries or support, please reach out to us at:
-
-- **Email**: parth.vaghasiya@dignizant.com
-- **Agency Website**: https://www.dignizant.com/
